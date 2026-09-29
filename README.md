@@ -1,0 +1,3 @@
+# Exemplofor
+
+exemplo utilizando for
